@@ -1018,6 +1018,12 @@
     (path "/187a0200-f9ae-4fa4-b920-48df9a722774/5bca7e1e-e668-4ad6-aa9f-f6a67932da33"
       (reference "R306") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
+    (path "/187a0200-f9ae-4fa4-b920-48df9a722774/48531838-c144-484a-a463-fa750ac1c7bc"
+      (reference "TP1") (unit 1) (value "Vatt") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
+    )
+    (path "/187a0200-f9ae-4fa4-b920-48df9a722774/8cf398cd-4738-4f5f-8514-e95d6835a4e4"
+      (reference "TP2") (unit 1) (value "Vd") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
+    )
     (path "/85aa615d-a40e-45f3-b6cc-b43b064b3867/edebcab6-93b2-4a37-9e86-082aebe3a26b"
       (reference "U201") (unit 1) (value "L78L05") (footprint "Package_TO_SOT_SMD:SOT-89-3")
     )
