@@ -1901,7 +1901,7 @@
     (pin "2" (uuid fcd413b9-f50c-4ca2-8648-b7b4f036f3c7))
   )
 
-  (symbol (lib_id "Device:C_Polarized_Small") (at 30.48 53.34 90) (unit 1)
+  (symbol (lib_id "Device:C_Polarized_Small") (at 30.48 53.34 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6e0837e2-58db-4a6a-8d0d-f1db5ae148de)
     (property "Reference" "C202" (id 0) (at 30.48 48.26 90))

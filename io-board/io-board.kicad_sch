@@ -1,0 +1,91 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid df5c8512-0ccf-4525-be9f-f8ce4ed160c9)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 76.2 25.4) (size 25.4 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 138f5238-2466-4b40-8443-8253ffd3dc8e)
+    (property "Sheet name" "Headphone Amp" (id 0) (at 76.2 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "headphone.kicad_sch" (id 1) (at 76.2 51.3846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 25.4 25.4) (size 25.4 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3dcf1056-a307-4106-90d9-73251143d1a1)
+    (property "Sheet name" "Buffers" (id 0) (at 25.4 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "buffers.kicad_sch" (id 1) (at 25.4 51.3846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1" (page "2"))
+    (path "/138f5238-2466-4b40-8443-8253ffd3dc8e" (page "3"))
+  )
+
+  (symbol_instances
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/6cb39c0a-543e-4d7a-b498-72422c9e865f"
+      (reference "C?") (unit 1) (value "4.7u") (footprint "")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/945997da-7e4d-4cf6-8c07-99637179d1b9"
+      (reference "C?") (unit 1) (value "100n") (footprint "")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/a6e4557b-186d-43fe-8803-3878274f7693"
+      (reference "C?") (unit 1) (value "4.7u") (footprint "")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/acd801a1-c70b-4777-8af7-7448233bf9b2"
+      (reference "C?") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/b298a6e7-4f78-4d76-a88f-0f0f0f0d8276"
+      (reference "C?") (unit 1) (value "470n") (footprint "")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/f5710036-145f-45f6-b56b-b7719efb0be8"
+      (reference "C?") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/1a6c56e2-4852-4c03-8ef1-5f9ebe06453d"
+      (reference "Q?") (unit 1) (value "3904 BEC") (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/a92b5c9b-d662-4a1a-ab6f-a691edc0eb73"
+      (reference "Q?") (unit 1) (value "J201") (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/0e2217a9-d9a0-4f62-9edf-e7a37ecab8f5"
+      (reference "R?") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/2cd8e8d2-21c6-43c6-aadc-07d75c3d52ad"
+      (reference "R?") (unit 1) (value "3.3K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/4e6624d5-f1f4-4d23-a218-34e024cc4cbb"
+      (reference "R?") (unit 1) (value "200K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/5e3c65ee-6117-4918-9055-90f0ec37fe45"
+      (reference "R?") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/7c68a1c7-e9bb-499d-85c9-4b460cadc1a4"
+      (reference "R?") (unit 1) (value "200K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/da1e6859-7d4f-46d2-aeae-d070b702e7db"
+      (reference "R?") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/e3cbc328-ad88-49bd-8e94-7ba412469749"
+      (reference "R?") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/3dcf1056-a307-4106-90d9-73251143d1a1/ef30a247-a7e3-4088-8b03-d7af479b9c22"
+      (reference "R?") (unit 1) (value "3.3K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+  )
+)
