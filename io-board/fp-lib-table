@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "tayda-6mm35-jack-pcb-compact")(type "KiCad")(uri "/Volumes/hdd/Projects/kicad/pt-workshop/lib/tayda-6mm35-jack-pcb-compact.pretty")(options "")(descr ""))
+  (lib (name "switches")(type "KiCad")(uri "/Volumes/hdd/Projects/kicad/footprints/MadbeanV3ForKiCad/switches.pretty")(options "")(descr ""))
+  (lib (name "R0904NB10KL-25KQ")(type "KiCad")(uri "/Volumes/hdd/Projects/kicad/konstrukt-kicad6/lib/R0904NB10KL-25KQ")(options "")(descr ""))
+)

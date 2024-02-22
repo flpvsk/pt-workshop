@@ -39,6 +39,9 @@
   )
 
   (symbol_instances
+    (path "/7c61587e-6232-47f6-8681-6b8991e084e5/09c637fa-46c9-4e16-9ceb-f192d875cec2"
+      (reference "C?") (unit 1) (value "10u") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder")
+    )
     (path "/2d15862a-3527-4362-9e99-f23dd952d673/11a8292f-1c11-4334-8407-a06ba2c7edbc"
       (reference "C?") (unit 1) (value "10n") (footprint "")
     )
@@ -73,6 +76,9 @@
       (reference "C?") (unit 1) (value "10n") (footprint "")
     )
     (path "/2d15862a-3527-4362-9e99-f23dd952d673/a5719ba3-2ac0-4622-9ca1-8ac5748a5f13"
+      (reference "C?") (unit 1) (value "100n") (footprint "")
+    )
+    (path "/7c61587e-6232-47f6-8681-6b8991e084e5/b326f320-3644-4b77-8564-b786b4e203be"
       (reference "C?") (unit 1) (value "100n") (footprint "")
     )
     (path "/2d15862a-3527-4362-9e99-f23dd952d673/d7069e7a-c704-4c73-82e7-86ad0b0815a5"
