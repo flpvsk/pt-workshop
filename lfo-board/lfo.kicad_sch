@@ -821,6 +821,12 @@
     (uuid f99d2f7b-175a-4364-9f7e-3ec36a42a72c)
   )
 
+  (text "C17 is 10n in the doc,\nswitched due to tests w/ Konstrukt"
+    (at 161.29 29.21 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 70036875-79c9-4e58-bcc5-784547f9600f)
+  )
+
   (label "LFOFiltered" (at 162.56 124.46 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 48a82a72-8f67-43a9-9710-7487c9ab60f3)
@@ -1109,7 +1115,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 720e1383-47f5-4177-8aba-756f2f8e3315)
     (property "Reference" "C17" (id 0) (at 162.5663 31.75 90))
-    (property "Value" "10n" (id 1) (at 162.5663 34.29 90))
+    (property "Value" "6.8n" (id 1) (at 162.5663 34.29 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (id 2) (at 162.56 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
