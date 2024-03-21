@@ -1077,7 +1077,7 @@
       (reference "D1") (unit 1) (value "4001") (footprint "Diode_SMD:D_SMA_Handsoldering")
     )
     (path "/7c61587e-6232-47f6-8681-6b8991e084e5/96850a4e-7101-4fe9-8b56-9b2a12a8401e"
-      (reference "D2") (unit 1) (value "LED_Dual_Bidirectional") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
+      (reference "D2") (unit 1) (value "LED_Dual_Bidirectional") (footprint "LED_THT:LED_D3.0mm")
     )
     (path "/0909117d-394c-425d-a337-56a4622c08fc"
       (reference "H1") (unit 1) (value "GND") (footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad")
