@@ -313,7 +313,7 @@
     (property "LCSC" "C25804" (id 4) (at 114.3 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mouser" "603-RT0603DRE1010KL" (id 5) (at 114.3 55.88 0)
+    (property "Mouser" "" (id 5) (at 114.3 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e31fc00b-ba47-4b22-8b2a-2a6c5303c769))
