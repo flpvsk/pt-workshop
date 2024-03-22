@@ -1065,7 +1065,7 @@
       (reference "C16") (unit 1) (value "10u") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder")
     )
     (path "/7c61587e-6232-47f6-8681-6b8991e084e5/720e1383-47f5-4177-8aba-756f2f8e3315"
-      (reference "C17") (unit 1) (value "6.8n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C17") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/7c61587e-6232-47f6-8681-6b8991e084e5/77fb460d-3cd6-4bbf-adc9-c010fd840851"
       (reference "C18") (unit 1) (value "4.7n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -1176,7 +1176,7 @@
       (reference "R33") (unit 1) (value "100K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/7c61587e-6232-47f6-8681-6b8991e084e5/32a0212e-372e-4217-aadf-5f843af0b64a"
-      (reference "R34") (unit 1) (value "470") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R34") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/7c61587e-6232-47f6-8681-6b8991e084e5/7665d65f-bec5-44d4-881c-3d25e7120e42"
       (reference "R35") (unit 1) (value "20K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
@@ -1194,19 +1194,19 @@
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK")
     )
     (path "/2d15862a-3527-4362-9e99-f23dd952d673/8ea3c0da-141b-4a74-9a82-22362305cd3c"
-      (reference "U1") (unit 1) (value "MCP6004") (footprint "")
+      (reference "U1") (unit 1) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/2d15862a-3527-4362-9e99-f23dd952d673/3bdbc9a5-0de7-4831-9e51-2466dfb15560"
-      (reference "U1") (unit 2) (value "MCP6004") (footprint "")
+      (reference "U1") (unit 2) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/2d15862a-3527-4362-9e99-f23dd952d673/e8051078-8b2b-4bd2-9c4c-b36a1541132a"
       (reference "U1") (unit 3) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/2d15862a-3527-4362-9e99-f23dd952d673/81b69818-3fdf-4857-b91a-cc87095bbc1a"
-      (reference "U1") (unit 4) (value "MCP6004") (footprint "")
+      (reference "U1") (unit 4) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/2d15862a-3527-4362-9e99-f23dd952d673/b9eb8c7a-af8e-4244-9375-745b4ff0ac91"
-      (reference "U1") (unit 5) (value "MCP6004") (footprint "")
+      (reference "U1") (unit 5) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/7c61587e-6232-47f6-8681-6b8991e084e5/6069eff8-5250-4b33-bd8e-a29e8238c588"
       (reference "U4") (unit 1) (value "StompLFO") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
