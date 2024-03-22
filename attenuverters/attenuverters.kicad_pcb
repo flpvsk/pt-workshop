@@ -131,7 +131,7 @@
     (at 56.007 78.867 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C14675")
+    (property "LCSC" "C25803")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/b377fb9d-6452-45f1-b34c-658a48e6eeb9")
@@ -174,7 +174,7 @@
     (at 56.134 46.482 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C2907002")
+    (property "LCSC" "C21190")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/fd9d4146-1728-4437-b451-6aab088692b3")
@@ -217,7 +217,7 @@
     (at 43.18 70.739 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C14675")
+    (property "LCSC" "C25803")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/9c076ec7-3a9e-4c36-8905-d09b5e9fef17")
@@ -260,7 +260,7 @@
     (at 60.198 58.928 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C14675")
+    (property "LCSC" "C25803")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/84255105-a492-4f9f-b540-3428d7623568")
@@ -642,7 +642,7 @@
     (at 60.198 66.802 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C14675")
+    (property "LCSC" "C25803")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/edb1afa9-9f2f-4c41-90f3-3be2efb79824")
@@ -685,7 +685,7 @@
     (at 63.119 58.928 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C2907011")
+    (property "LCSC" "C4184")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/9808ea49-dc57-4573-b0da-2fdcf897b84e")
@@ -898,7 +898,7 @@
     (at 62.992 70.7155 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C2907011")
+    (property "LCSC" "C4184")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/121bb6fb-4024-48a4-886b-2888a1e770c5")
@@ -985,7 +985,7 @@
     (at 56.134 54.61 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C14675")
+    (property "LCSC" "C25803")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/c101418a-2ade-4dbf-adfe-939f1eab558a")
@@ -1314,7 +1314,7 @@
     (at 56.134 50.546 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C2907002")
+    (property "LCSC" "C21190")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/5474f3a0-c1da-4556-83b7-8e9e6c8930b4")
@@ -1357,7 +1357,7 @@
     (at 42.164 62.8885 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C2907002")
+    (property "LCSC" "C21190")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/26924269-c5bb-4565-a7e7-e9347dadda7a")
@@ -1400,7 +1400,7 @@
     (at 55.753 62.738 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C14675")
+    (property "LCSC" "C25803")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/e2c6373e-5c81-43c1-bb35-ba725a892336")
@@ -1521,7 +1521,7 @@
     (at 57.404 58.928 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C14675")
+    (property "LCSC" "C25803")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/f193c266-839c-40a3-8c1e-beb449e6bca3")
@@ -1726,7 +1726,7 @@
     (at 46.228 58.928 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C14675")
+    (property "LCSC" "C25803")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/8cdb64cc-e6d5-43d0-8f60-bfea95a0b43c")
@@ -1769,7 +1769,7 @@
     (at 56.007 74.549 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C2907002")
+    (property "LCSC" "C21190")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/c4723f6a-0036-4bda-8ed5-189931cf2cad")
@@ -1949,7 +1949,7 @@
     (at 54.61 58.928 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C14675")
+    (property "LCSC" "C25803")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/41cca3af-935c-4fe3-bb8f-612c3528d639")
@@ -2019,10 +2019,10 @@
     (at 65.278 64.77 -90)
     (descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
-    (property "LCSC" "C67473")
+    (property "LCSC" "C6961")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
-    (path "/ef7bec0d-53d7-4818-a379-1be887ae21fa")
+    (path "/c9385fbd-c308-4f29-ba3b-4f751c4343a1")
     (attr smd)
     (fp_text reference "U2" (at 0 -3.4 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2170,7 +2170,7 @@
     (at 60.198 70.739 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C2907002")
+    (property "LCSC" "C21190")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/774d6915-12f2-41f1-bb71-1894b17601e9")
@@ -2262,7 +2262,7 @@
     (at 54.61 70.739 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C14675")
+    (property "LCSC" "C25803")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/dc1e737f-5ff8-4b7b-9285-c661d7ba7919")
@@ -2305,7 +2305,7 @@
     (at 56.007 83.058 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C2907002")
+    (property "LCSC" "C21190")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/3d59ca23-5dae-4c8f-8a02-b133b16f411e")
@@ -2348,7 +2348,7 @@
     (at 65.786 70.739 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C2907002")
+    (property "LCSC" "C21190")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/43b6684f-d394-47ff-baef-43cd8700a82b")
@@ -2444,7 +2444,7 @@
     (at 51.816 70.7625 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C14675")
+    (property "LCSC" "C25803")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/706f444f-0cea-405e-8281-af1d76877b30")
@@ -2487,7 +2487,7 @@
     (at 65.913 58.928 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C2907002")
+    (property "LCSC" "C21190")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/47892c7c-edad-4ede-8d33-417e6517d6f2")
@@ -2530,7 +2530,7 @@
     (at 46.228 70.739 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
-    (property "LCSC" "C14675")
+    (property "LCSC" "C25803")
     (property "Sheetfile" "attenuverters.kicad_sch")
     (property "Sheetname" "")
     (path "/c2bad474-f306-44cb-908c-de63b545ecd3")
@@ -2885,11 +2885,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIlsiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiPiIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJHTkQiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA5A0" (at 0 3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp c44a32b7-09db-49e4-8854-3f617b06d125)
     )
     (fp_text value "G***" (at 0 -3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 6862279f-1270-4c1e-8ab8-7fb21c8f8a5a)
     )
     (fp_poly (pts
@@ -3020,11 +3020,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIjwiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiXSIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJJbjEiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA4E4" (at 0 3.579813) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 2df9403f-27a6-4621-b781-a99704f6bd6b)
     )
     (fp_text value "G***" (at 0 -3.579813) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 065cea62-b1a9-409e-b71d-b456d63a92a9)
     )
     (fp_poly (pts
@@ -3108,11 +3108,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIjwiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiXSIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJPdXQyIiwgIlBhZGRpbmdCb3R0b21DdHJsIjogIjUiLCAiUGFkZGluZ0xlZnRDdHJsIjogIjUiLCAiUGFkZGluZ1JpZ2h0Q3RybCI6ICI1IiwgIlBhZGRpbmdUb3BDdHJsIjogIjUiLCAiV2lkdGhDdHJsIjogIjMuODEifQ==")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA5C9" (at 0 3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 41481cd9-1669-4c04-aeb4-f2230100128b)
     )
     (fp_text value "G***" (at 0 -3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 9738e947-206d-4c5b-9b3e-c21ff2e6d605)
     )
     (fp_poly (pts
@@ -3285,11 +3285,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIjwiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiXSIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICI0djUiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA513" (at 0 3.556) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp a07f6598-248e-422f-a899-634d9b998cd7)
     )
     (fp_text value "G***" (at 0 -3.556) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 5df3fdbd-4f0b-40f9-acfb-15ad1d3b1c7f)
     )
     (fp_poly (pts
@@ -3389,11 +3389,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIlsiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiPiIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJPdXQyIiwgIlBhZGRpbmdCb3R0b21DdHJsIjogIjUiLCAiUGFkZGluZ0xlZnRDdHJsIjogIjUiLCAiUGFkZGluZ1JpZ2h0Q3RybCI6ICI1IiwgIlBhZGRpbmdUb3BDdHJsIjogIjUiLCAiV2lkdGhDdHJsIjogIjMuODEifQ==")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA541" (at 0 3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 42c478b7-bb25-4cc6-ab2e-6c85b6feae90)
     )
     (fp_text value "G***" (at 0 -3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp f2cadb5e-5f88-4917-b0b3-3b2b3ec651d6)
     )
     (fp_poly (pts
@@ -3566,11 +3566,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIlsiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiPiIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJJbjEiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA57B" (at 0 3.579813) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp e7d5bdd5-46cd-4dd8-aa71-d2c29fbd76c7)
     )
     (fp_text value "G***" (at 0 -3.579813) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 1f925ccf-79b7-4d3f-960d-ee87b3bd69cd)
     )
     (fp_poly (pts
@@ -3654,11 +3654,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIjwiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiXSIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJHTkQiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA507" (at 0 3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp deae209d-83c0-449b-b65b-69059bfda95b)
     )
     (fp_text value "G***" (at 0 -3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp eb3a5caf-b965-494d-a333-e86531b165bc)
     )
     (fp_poly (pts
@@ -3789,11 +3789,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIlsiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiPiIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICI5djAiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA598" (at 0 3.561239) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp e6c95804-3584-447d-8e34-e9d84a2e8ee4)
     )
     (fp_text value "G***" (at 0 -3.561239) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp d286387e-36b6-4487-9ebb-8e26f67ca19b)
     )
     (fp_poly (pts
@@ -6135,11 +6135,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIjwiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiXSIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJJbjIiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA527" (at 0 3.579813) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp ce7b005e-175f-4f65-a6eb-41900f6cf2da)
     )
     (fp_text value "G***" (at 0 -3.579813) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp c0d7d6f0-0e25-4cb7-9bb4-b46d7148e07b)
     )
     (fp_poly (pts
@@ -6245,11 +6245,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIjwiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiXSIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJHTkQiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA4EE" (at 0 3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 6cbc3714-d4b9-42a4-a654-a95d4eaf483b)
     )
     (fp_text value "G***" (at 0 -3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 9421d1c4-2937-45ba-8184-c8c9c67e0bbf)
     )
     (fp_poly (pts
@@ -6380,11 +6380,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIlsiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiPiIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJJbjIiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA5B3" (at 0 3.579813) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 096f5f81-b835-415c-ae44-61d58a8a0055)
     )
     (fp_text value "G***" (at 0 -3.579813) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 9ba17563-68b2-450b-9bf6-68bfa11395a6)
     )
     (fp_poly (pts
@@ -6490,11 +6490,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIlsiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiPiIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJHTkQiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA5BA" (at 0 3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 584af204-b2e7-4855-9030-bbc013147cd8)
     )
     (fp_text value "G***" (at 0 -3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 17201389-d159-4799-91d0-3f78feef3442)
     )
     (fp_poly (pts
@@ -6625,11 +6625,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIjwiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiXSIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJPdXQxIiwgIlBhZGRpbmdCb3R0b21DdHJsIjogIjUiLCAiUGFkZGluZ0xlZnRDdHJsIjogIjUiLCAiUGFkZGluZ1JpZ2h0Q3RybCI6ICI1IiwgIlBhZGRpbmdUb3BDdHJsIjogIjUiLCAiV2lkdGhDdHJsIjogIjMuODEifQ==")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA5D6" (at 0 3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 61cba099-b0d1-4547-b755-64c5ef7d7d0b)
     )
     (fp_text value "G***" (at 0 -3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 1c590952-577c-44ad-9a3b-cea7ab3035a7)
     )
     (fp_poly (pts
@@ -7926,11 +7926,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIlsiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiPiIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJPdXQxIiwgIlBhZGRpbmdCb3R0b21DdHJsIjogIjUiLCAiUGFkZGluZ0xlZnRDdHJsIjogIjUiLCAiUGFkZGluZ1JpZ2h0Q3RybCI6ICI1IiwgIlBhZGRpbmdUb3BDdHJsIjogIjUiLCAiV2lkdGhDdHJsIjogIjMuODEifQ==")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA56F" (at 0 3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 8e5e9182-eefd-476e-b683-fd829d4adb94)
     )
     (fp_text value "G***" (at 0 -3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp b81acca5-f5da-4043-a3d0-3b82f1e69b16)
     )
     (fp_poly (pts
@@ -8081,11 +8081,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIjwiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiXSIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJHTkQiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA52F" (at 0 3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 9388a9aa-b85d-451c-a157-6dd78fdfe220)
     )
     (fp_text value "G***" (at 0 -3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 666246b3-5915-469b-952e-5b80638f5196)
     )
     (fp_poly (pts
@@ -8216,11 +8216,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIlsiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiPiIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICI0djUiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA5A8" (at 0 3.556) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 7ad9317c-740e-4fd8-9562-d0e6a1c09f61)
     )
     (fp_text value "G***" (at 0 -3.556) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp be88fc9a-285a-4c6d-8ef7-bbe00e402e84)
     )
     (fp_poly (pts
@@ -8320,11 +8320,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIlsiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiPiIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICJHTkQiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA584" (at 0 3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 1eab9eee-968f-44b3-9e7e-950c257dd0fd)
     )
     (fp_text value "G***" (at 0 -3.589338) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp dacbd52f-8544-4326-9e8d-01a3b8f793ec)
     )
     (fp_poly (pts
@@ -8455,11 +8455,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiTGVmdCIsICJDYXBMZWZ0Q2hvaWNlIjogIjwiLCAiQ2FwUmlnaHRDaG9pY2UiOiAiXSIsICJGb250Q29tYm9Cb3giOiAiTW9kZXJhdC1Nb25vLU1lZGl1bSIsICJIZWlnaHRDdHJsIjogIjAuNiIsICJMYXllckNvbWJvQm94IjogIkYuU2lsa1MiLCAiTXVsdGlMaW5lVGV4dCI6ICI5djAiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMy44MSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-65FDA500" (at 0 3.561239) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp aef6763e-8d14-4892-9fb3-be3584e479c1)
     )
     (fp_text value "G***" (at 0 -3.561239) (layer "B.SilkS") hide
-      (effects (font (size 0 0)) (justify mirror))
+      (effects (font (size 0 0) (thickness 0.15)) (justify mirror))
       (tstamp 5a13cdd8-a4ff-45ef-91cc-c4dd4defff0f)
     )
     (fp_poly (pts
@@ -8640,6 +8640,9 @@
   )
   (gr_text "8" (at 75.184 78.74) (layer "F.SilkS") (tstamp c6a4a890-e393-4528-9fd3-fc8303933683)
     (effects (font (size 0.8 0.6) (thickness 0.1) italic))
+  )
+  (gr_text "JLCJLCJLCJLC" (at 48.895 64.77) (layer "F.SilkS") (tstamp c7c0d995-2cc4-43be-970a-9b95799fa1a5)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (gr_text "6" (at 36.576 68.58) (layer "F.SilkS") (tstamp dd17b541-13de-4522-bc20-e9c39351bee9)
     (effects (font (size 0.8 0.6) (thickness 0.1) italic))
