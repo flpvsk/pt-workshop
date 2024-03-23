@@ -8591,6 +8591,12 @@
       ) (layer "B.SilkS") (width 0) (fill solid) (tstamp a2c02a79-3a7c-425e-b648-6fc4b2a61290))
   )
 
+  (gr_circle (center 73.66 78.74) (end 74.66 78.74) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 32403229-f9d8-4b8b-923a-1e9e9f4abf91))
+  (gr_circle (center 38.1 78.74) (end 39.1 78.74) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 3a6020e6-dc7b-49d6-a69d-919454a94d3a))
+  (gr_circle (center 73.66 50.8) (end 74.66 50.8) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 5113a23e-b47b-43b7-a1b3-ad959cb71d95))
+  (gr_circle (center 73.66 66.04) (end 74.66 66.04) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 7645335d-e435-4e1a-84b8-4cdfa4dcbc15))
+  (gr_circle (center 38.1 66.04) (end 39.1 66.04) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 84e82f67-cd1c-42f0-8c5b-ea83771332bb))
+  (gr_circle (center 38.1 50.8) (end 39.1 50.8) (layer "F.SilkS") (width 0.12) (fill none) (tstamp a5f162d6-5a0c-4e0d-93b4-64d5003d0f70))
   (gr_arc (start 35.56 40.64) (mid 37.047898 37.047898) (end 40.64 35.56) (layer "Edge.Cuts") (width 0.1) (tstamp 026f358a-c17e-4122-b7a2-60ab3124ea5a))
   (gr_arc (start 71.12 35.56) (mid 74.712102 37.047898) (end 76.2 40.64) (layer "Edge.Cuts") (width 0.1) (tstamp 03dd03e5-dcab-41c6-9e12-6a43b040a8a7))
   (gr_line (start 40.64 93.98) (end 71.12 93.98) (layer "Edge.Cuts") (width 0.1) (tstamp 1a60669a-b1a2-4140-869e-80f9c62fdd7e))
