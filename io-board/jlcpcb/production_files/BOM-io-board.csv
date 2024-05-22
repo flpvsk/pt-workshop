@@ -9,6 +9,7 @@ Comment,Designator,Footprint,LCSC
 10u,"C10,C8",CP_Elec_4x5.4,C240540
 10K,"R11,R12,R8",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804
 200K,R5,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25811
+100n,"C1,C7,C9",CP_Elec_4x5.4,C271438
 4.7u,"C5,C6",CP_Elec_4x5.4,C2963050
 470n,C2,CP_Elec_4x5.4,C305350
 2.2K,"R1,R18,R19",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C4190
@@ -30,6 +31,3 @@ TL,H1,MountingHole_3.2mm_M3_Pad_Via,
 A20K,RV1,V3_TRIM_R0904NB10KL-Keepout,
 Conn,J3,PinHeader_2x06_P2.54mm_Vertical,
 TR,H2,MountingHole_3.2mm_M3_Pad_Via,
-100n,C1,CP_Elec_4x5.4,
-100n,C7,CP_Elec_4x5.4,
-100n,C9,CP_Elec_4x5.4,
