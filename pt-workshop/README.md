@@ -2,6 +2,8 @@
 
 PT2399 adapter board for prototyping pedals.
 
+[Schematic](./ptt-v1rev2.pdf)
+
 For minimum operation, please connect these pins:
 
 * Pin 1: +9V
