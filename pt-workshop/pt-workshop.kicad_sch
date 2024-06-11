@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "PTT")
+    (date "2024-05-11")
+    (rev "v1rev2")
+    (company "Pedal Markt")
+    (comment 1 "Andrey Salomatin")
+  )
+
   (lib_symbols
     (symbol "Connector_Generic:Conn_01x15" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 20.32 0)
