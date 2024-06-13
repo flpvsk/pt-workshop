@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -55,7 +55,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|52599999|49070461|5a2c6ba0-8a4f-42ce-bfd7-dad6cbb62d04|daf542b1-d4df-4130-890c-623f7eee79c5",
+        "courtyards_overlap|72188677|49000001|2aa8a7f1-1bda-4560-8c44-621fb5793a75|cb18a4e8-2bc4-4029-98d1-ba07d2f239c4"
+      ],
       "meta": {
         "version": 2
       },
@@ -120,6 +123,7 @@
       },
       "track_widths": [
         0.0,
+        0.2,
         0.3,
         0.5,
         0.8
@@ -128,6 +132,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
         },
         {
           "diameter": 0.7,
