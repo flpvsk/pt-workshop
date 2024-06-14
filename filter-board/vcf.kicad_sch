@@ -1530,7 +1530,7 @@
     (pin "2" (uuid 298cd58a-9b7f-4469-97ba-b0b09ee8b0c1))
   )
 
-  (symbol (lib_id "pedals:SSI2164-Split") (at 167.64 52.07 0) (unit 2)
+  (symbol (lib_id "pedals:SSI2164-Split") (at 167.64 52.07 0) (unit 4)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0c77e284-f245-48d7-b471-366d2e2e583d)
     (property "Reference" "U4" (id 0) (at 167.64 36.83 0))
@@ -1894,7 +1894,7 @@
     (pin "2" (uuid 66c585da-5176-44a9-b14e-e3b72ed890d5))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 58.42 137.16 0) (mirror x) (unit 3)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 58.42 137.16 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 81da177b-673f-4dd6-8cf7-e27b67f11e67)
     (property "Reference" "U3" (id 0) (at 58.42 127 0))
@@ -1997,7 +1997,7 @@
     (pin "9" (uuid 1daac794-b7bf-431a-98a9-0caa5a5cda8a))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 256.54 52.07 0) (mirror x) (unit 2)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 256.54 52.07 0) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8fcd1e28-b5a1-4c38-a856-67cbe0da524a)
     (property "Reference" "U3" (id 0) (at 256.54 41.91 0))
@@ -2183,7 +2183,7 @@
     (pin "2" (uuid 7a5ac088-706f-4a5d-ac26-4ee9705fc8a3))
   )
 
-  (symbol (lib_id "pedals:SSI2164-Split") (at 101.6 137.16 0) (unit 4)
+  (symbol (lib_id "pedals:SSI2164-Split") (at 101.6 137.16 0) (unit 2)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ad18d830-8c9c-4dad-a715-a641e7e0ccb7)
     (property "Reference" "U4" (id 0) (at 101.6 121.92 0))
@@ -2252,7 +2252,7 @@
     (pin "2" (uuid ce0471c7-e386-41b1-8b54-23d48038446a))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 193.04 137.16 0) (mirror x) (unit 4)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 193.04 137.16 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c0708f1a-db43-45f0-acd5-f039df2c52da)
     (property "Reference" "U3" (id 0) (at 193.04 127 0))
@@ -2282,7 +2282,7 @@
     (pin "4" (uuid c862ec09-4097-465d-98bb-3238f4cc4347))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 124.46 52.07 0) (mirror x) (unit 4)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 124.46 52.07 0) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c16f2b10-0a91-4dfc-817b-0b651b23ace3)
     (property "Reference" "U1" (id 0) (at 124.46 41.91 0))
@@ -2352,7 +2352,7 @@
     (pin "2" (uuid 2a3ea1a4-685f-4d93-abe6-858b9b6a8b50))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 58.42 52.07 0) (mirror x) (unit 3)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 58.42 52.07 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c4fd6e35-962d-4a63-8b63-c3baed749756)
     (property "Reference" "U1" (id 0) (at 58.42 41.91 0))
@@ -2502,7 +2502,7 @@
     (pin "2" (uuid b3bb9823-e1e2-4398-abe7-88084d281efc))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 190.5 52.07 0) (mirror x) (unit 1)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 190.5 52.07 0) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid eb4ffa87-099a-437e-ad93-5456af427b4d)
     (property "Reference" "U3" (id 0) (at 190.5 41.91 0))
