@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x03_Male,PinHeader_1x03_P2.54mm_Vertical,111.745,-129.54,90.0,top
+J2,Conn_01x03_Male,PinHeader_1x03_P2.54mm_Vertical,111.745,-111.76,90.0,top
+RV1,R_Potentiometer_Shield,V3_TRIM_R0904NB10KL-Keepout,111.76,-120.58,0.0,top

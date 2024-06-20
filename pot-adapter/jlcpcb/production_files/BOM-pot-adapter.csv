@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC
+Conn_01x03_Male,J2,PinHeader_1x03_P2.54mm_Vertical,
+Conn_01x03_Male,J1,PinHeader_1x03_P2.54mm_Vertical,
+R_Potentiometer_Shield,RV1,V3_TRIM_R0904NB10KL-Keepout,
