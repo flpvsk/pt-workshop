@@ -912,6 +912,11 @@
     (uuid ff834d89-316b-42d1-adfc-5a22009405f8)
   )
 
+  (text "Consider more common resistor values" (at 147.32 57.15 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e0fd346c-1657-48d7-a1b3-ce1d6a64055b)
+  )
+
   (hierarchical_label "GND" (shape input) (at 269.24 50.8 270)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 0b3b9386-04b3-4ed2-ac5d-7c7fe0350049)

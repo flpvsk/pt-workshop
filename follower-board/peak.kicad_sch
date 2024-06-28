@@ -558,6 +558,16 @@
     (uuid ffb30ca4-f2f6-49b3-97cf-3259d74156a4)
   )
 
+  (text "Change U2 to R2R opamp due to phase reversal issue"
+    (at 76.2 99.06 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a9f0e60d-046b-417c-8589-e855d4665e0b)
+  )
+  (text "Change R20 to 10k to avoid loading 4.5V source" (at 125.73 132.08 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f96935b1-459d-44f9-b97d-aff109147a24)
+  )
+
   (label "ThreshLim" (at 116.84 82.55 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 41adc3c1-89ba-498a-84df-ff557602ba43)
