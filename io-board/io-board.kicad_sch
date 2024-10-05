@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Protato")
+    (rev "v1rev1")
+    (company "Andrei Salomatin / Pedal Markt")
+  )
+
   (lib_symbols
     (symbol "Connector:AudioJack3_SwitchTR" (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 8.89 0)

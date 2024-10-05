@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Protato")
+    (rev "v1rev1")
+    (company "Andrei Salomatin / Pedal Markt")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Operational:NE5532" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 0 5.08 0)
