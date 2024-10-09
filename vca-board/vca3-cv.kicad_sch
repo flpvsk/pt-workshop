@@ -502,6 +502,12 @@
     (uuid fe165085-d09c-49b4-9cde-a30b3c8b84eb)
   )
 
+  (text "Bridge instead of D2 to\nlet the vol go all the way to quiet"
+    (at 129.54 31.75 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5b0930fe-236f-4251-9e99-267dce8f7d92)
+  )
+
   (hierarchical_label "+5.35V" (shape input) (at 72.39 55.88 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 18be4edf-3f85-4dd2-b236-02ce882d80c9)

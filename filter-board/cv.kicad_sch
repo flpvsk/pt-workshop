@@ -620,6 +620,11 @@
     (uuid fc080c18-9ded-4bc5-b250-11735adc5852)
   )
 
+  (text "Change R9 & R10 to 22k" (at 97.79 30.48 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 1e4c42de-24c0-495b-93ca-828dba4be4a5)
+  )
+
   (hierarchical_label "+4.5V" (shape input) (at 140.97 73.66 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 089749be-5d92-4e9e-a986-5448de2411a1)
