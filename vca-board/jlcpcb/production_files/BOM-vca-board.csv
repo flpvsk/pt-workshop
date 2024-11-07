@@ -18,7 +18,7 @@ Comment,Designator,Footprint,LCSC
 1.2n,"C1,C11,C3,C7",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C576816
 TL074,"U2,U3,U4",SOIC-14_3.9x8.7mm_P1.27mm,C6963
 100n,"C10,C14,C16,C18,C19,C20,C6",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C76711
-1N4148,"D2,D4,D6",D_SOD-123,C81598
+1N4148,"D4,D6",D_SOD-123,C81598
 GND,H3,MountingHole_3.2mm_M3_ISO14580_Pad,
 2,H4,MountingHole_3.2mm_M3,
 1,H2,MountingHole_3.2mm_M3,

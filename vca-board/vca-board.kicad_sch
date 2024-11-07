@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "VCA Board")
+    (date "2024-11-07")
+    (rev "v1rev2")
+    (company "Pedal Markt / Andrey Salomatin")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Operational:TL074" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 0 5.08 0)
@@ -1829,9 +1836,6 @@
     )
     (path "/1125607f-c780-4305-b94b-4e1656bf326d/6c3fdc79-8e91-4f59-87fd-39c42d575c1a/64be6468-5bac-40d7-bd5f-263c406532f2"
       (reference "D1") (unit 1) (value "2.7V") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/1125607f-c780-4305-b94b-4e1656bf326d/6c3fdc79-8e91-4f59-87fd-39c42d575c1a/8ab18df0-39cd-4004-a0ca-bc629d152af1"
-      (reference "D2") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/8ba9cbcc-be31-43d8-a61d-149bdca7ca2b/416b7702-1184-4eff-ae17-7880af6dda0d/740fa76a-728c-446f-abec-67b949df6f7c"
       (reference "D3") (unit 1) (value "2.7V") (footprint "Diode_SMD:D_SOD-123")
