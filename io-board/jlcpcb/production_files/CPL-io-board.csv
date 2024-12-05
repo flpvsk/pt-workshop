@@ -12,7 +12,7 @@ C10,10u,CP_Elec_4x5.4,103.307,-80.32,0.0,bottom
 C11,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,107.188,-110.109,180.0,bottom
 C12,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,84.455,-110.053,180.0,bottom
 C13,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,108.768,-85.5505,90.0,bottom
-D1,PWRLED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,97.5,-77.0,180.0,top
+D1,PWRLED,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,97.6,-77.0,180.0,top
 J3,Conn,PinHeader_2x06_P2.54mm_Vertical,127.305,-87.051,0.0,top
 J4,PWR,BarrelJack_GCT_DCJ200-10-A_Horizontal,96.85,-64.0,180.0,top
 J5,In,tayda-6mm35-jack-pcb-compact,115.0,-69.15,90.0,top
@@ -20,7 +20,7 @@ J6,Out,tayda-6mm35-jack-pcb-compact,80.0,-69.15,90.0,top
 J8,Conn,PinHeader_2x06_P2.54mm_Vertical,67.625,-87.051,0.0,top
 Q1,J201,SOT-23_Handsoldering,78.288,-80.447,90.0,bottom
 Q2,3904 BEC,SOT-23_Handsoldering,81.209,-94.925,90.0,bottom
-R1,2.2K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,97.846,-80.193,0.0,bottom
+R1,4.7K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,97.846,-80.193,0.0,bottom
 R2,1M,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,91.496,-83.241,90.0,bottom
 R4,1M,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,82.225,-78.669,90.0,bottom
 R5,200K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,90.226,-94.5,90.0,bottom
@@ -44,6 +44,6 @@ R23,1R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,90.297,-106.233,270.0,bottom
 RV1,A20K,V3_TRIM_R0904NB10KL-Keepout,97.5,-91.8,0.0,top
 SW1,SignalSW,DPDT.LUGS,120.0,-104.8,0.0,top
 SW2,PWRSW,SPDT.LUGS,75.0,-104.8,180.0,top
-U1,TL072,SOIC-8_3.9x4.9mm_P1.27mm,114.61,-88.3445,0.0,bottom
+U1,LM358,SOIC-8_3.9x4.9mm_P1.27mm,114.61,-88.3445,0.0,bottom
 U2,NE5532,SOIC-8_3.9x4.9mm_P1.27mm,108.26,-104.196,270.0,bottom
 U3,NE5532,SOIC-8_3.9x4.9mm_P1.27mm,85.471,-104.14,270.0,bottom

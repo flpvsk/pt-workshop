@@ -1343,7 +1343,7 @@
     (property "Reference" "R1" (id 0) (at 215.9 39.3699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "2.2K" (id 1) (at 215.9 41.9099 0)
+    (property "Value" "4.7K" (id 1) (at 215.9 41.9099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 213.36 40.64 0)
@@ -1352,7 +1352,7 @@
     (property "Datasheet" "~" (id 3) (at 213.36 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C4190" (id 4) (at 213.36 40.64 0)
+    (property "LCSC" "C23162" (id 4) (at 213.36 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2813d2d0-121f-49b6-b32d-940ec36e1a43))
@@ -1882,7 +1882,7 @@
     (property "Value" "PWRLED" (id 1) (at 217.17 33.3374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (id 2) (at 213.36 30.48 0)
+    (property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" (id 2) (at 213.36 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 213.36 30.48 0)
@@ -2084,7 +2084,7 @@
       (reference "C13") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/feeb30d9-4008-4e40-8871-317e49c53cdb"
-      (reference "D1") (unit 1) (value "PWRLED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "D1") (unit 1) (value "PWRLED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/bedd26ed-9d21-45bf-9f6a-c0e5d3ec5ec5"
       (reference "H1") (unit 1) (value "TL") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
@@ -2123,7 +2123,7 @@
       (reference "Q2") (unit 1) (value "3904 BEC") (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering")
     )
     (path "/15de9d7a-900c-460a-a439-04284730a56b"
-      (reference "R1") (unit 1) (value "2.2K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R1") (unit 1) (value "4.7K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/3dcf1056-a307-4106-90d9-73251143d1a1/e3cbc328-ad88-49bd-8e94-7ba412469749"
       (reference "R2") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
@@ -2198,13 +2198,13 @@
       (reference "SW2") (unit 1) (value "PWRSW") (footprint "switches:SPDT.LUGS")
     )
     (path "/138f5238-2466-4b40-8443-8253ffd3dc8e/b2598aea-44b6-40b3-9ac7-3fbe187dc4db"
-      (reference "U1") (unit 1) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U1") (unit 1) (value "NE552") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/138f5238-2466-4b40-8443-8253ffd3dc8e/c1d68c63-e268-4977-8045-3fde58b1cbbb"
-      (reference "U1") (unit 2) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U1") (unit 2) (value "NE552") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/138f5238-2466-4b40-8443-8253ffd3dc8e/3cdc37b8-2b1a-44d0-90d0-3c9be675a4f0"
-      (reference "U1") (unit 3) (value "TL072") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U1") (unit 3) (value "NE552") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/138f5238-2466-4b40-8443-8253ffd3dc8e/a437a95b-4848-451e-85c3-ac795aa45aa1"
       (reference "U2") (unit 1) (value "NE5532") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
