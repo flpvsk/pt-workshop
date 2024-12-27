@@ -2692,7 +2692,7 @@
     (pin "6" (uuid 96544939-65c3-4ccd-9a16-530e7f1e4e02))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 140.97 78.74 0) (mirror x) (unit 4)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 140.97 78.74 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1b833b28-a746-4445-8a15-87f4027cbc1b)
     (property "Reference" "U2" (id 0) (at 140.97 68.58 0))
@@ -3755,7 +3755,7 @@
     (pin "2" (uuid f5a815b9-a146-42da-9047-59f032523e43))
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 213.36 78.74 0) (mirror x) (unit 2)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 213.36 78.74 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c8b8aed9-b344-4140-9a17-9b7636e9756e)
     (property "Reference" "U2" (id 0) (at 213.36 68.58 0))
@@ -3802,7 +3802,7 @@
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 54.61 46.99 0) (mirror x) (unit 1)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 54.61 46.99 0) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c9b601fe-ff4c-4a1f-8701-896a8f230020)
     (property "Reference" "U2" (id 0) (at 54.61 36.83 0))
@@ -4372,16 +4372,16 @@
     (path "/3270fb10-d6fc-434e-b1f1-7c616a1ef718"
       (reference "U1") (unit 5) (value "LM13700") (footprint "Package_SO:SOP-16_4.55x10.3mm_P1.27mm")
     )
-    (path "/c9b601fe-ff4c-4a1f-8701-896a8f230020"
+    (path "/c8b8aed9-b344-4140-9a17-9b7636e9756e"
       (reference "U2") (unit 1) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/c8b8aed9-b344-4140-9a17-9b7636e9756e"
+    (path "/1b833b28-a746-4445-8a15-87f4027cbc1b"
       (reference "U2") (unit 2) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/2684272b-d66e-4862-8a9b-d5d5ba176583"
       (reference "U2") (unit 3) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/1b833b28-a746-4445-8a15-87f4027cbc1b"
+    (path "/c9b601fe-ff4c-4a1f-8701-896a8f230020"
       (reference "U2") (unit 4) (value "TL074") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/88d9f15c-9e13-4365-a46c-5e898c4fcf0b"
