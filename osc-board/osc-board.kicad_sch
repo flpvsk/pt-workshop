@@ -2141,6 +2141,22 @@
     (uuid fffa4fdc-15ae-4705-8a94-ade2dff79d6d)
   )
 
+  (text "After testing. Replacing R9 with 10k and\nshorting the other leg of R6 to 9V\ngives better results."
+    (at 16.51 22.86 0)
+    (effects (font (size 1 1)) (justify left bottom))
+    (uuid 2b223022-a716-477f-a032-a7ce3ef3ed2a)
+  )
+  (text "Maybe increase R5 slightly\nto avoid the osc switching off\nat min CV\nbut sometimes it works w/ 100k :/"
+    (at 16.51 62.23 0)
+    (effects (font (size 1 1)) (justify left bottom))
+    (uuid 369aac3f-c0f9-4af3-938a-50f147d34846)
+  )
+  (text "Might make sense to expose\nthe Osc_Integrator pins\nto the main header"
+    (at 144.78 26.67 0)
+    (effects (font (size 1 1)) (justify left bottom))
+    (uuid f9f25b11-09b2-4d51-87e1-36b18734f50e)
+  )
+
   (label "Osc2_PWM_Out" (at 236.22 135.89 90)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0457c906-1b67-4f47-88e3-f12eebfda7b2)
