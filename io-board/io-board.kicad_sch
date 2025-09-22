@@ -1090,6 +1090,11 @@
     (uuid fddad87c-1a23-46fb-bec5-179cfc2a3c45)
   )
 
+  (text "Add reverse polarity protection" (at 144.78 64.77 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2f7ee242-552b-43d9-97db-a09a80761d87)
+  )
+
   (label "HeadphoneL" (at 106.68 36.83 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 105f3303-4e64-4b53-b4b5-92d9547ad197)

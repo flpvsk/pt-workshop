@@ -865,6 +865,11 @@
     (uuid fc631eb8-1e89-497b-80d2-8f63c3d3d4e3)
   )
 
+  (text "Move R14 into the opamp fb loop" (at 118.745 116.205 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 0e1e7897-f7f5-4249-83c7-2957473094a6)
+  )
+
   (hierarchical_label "+9V" (shape input) (at 78.74 111.76 90)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 0b48e9e3-1d7a-45e6-b0ce-cfc91898c7b8)

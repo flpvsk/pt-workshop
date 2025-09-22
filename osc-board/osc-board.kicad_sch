@@ -2146,7 +2146,7 @@
     (effects (font (size 1 1)) (justify left bottom))
     (uuid 2b223022-a716-477f-a032-a7ce3ef3ed2a)
   )
-  (text "Maybe increase R5 slightly\nto avoid the osc switching off\nat min CV\nbut sometimes it works w/ 100k :/"
+  (text "Maybe increase R5 slightly (to 120k)\nto avoid the osc switching off\nat min CV\nbut sometimes it works w/ 100k :/"
     (at 16.51 62.23 0)
     (effects (font (size 1 1)) (justify left bottom))
     (uuid 369aac3f-c0f9-4af3-938a-50f147d34846)

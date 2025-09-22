@@ -7,7 +7,7 @@
   (title_block
     (title "PTT")
     (date "2024-05-11")
-    (rev "v1rev2")
+    (rev "v1rev3")
     (company "Pedal Markt")
     (comment 1 "Andrey Salomatin")
   )
@@ -799,10 +799,10 @@
       (reference "C207") (unit 1) (value "100n") (footprint "Capacitor_SMD:CP_Elec_4x5.4")
     )
     (path "/85aa615d-a40e-45f3-b6cc-b43b064b3867/0facd620-a53c-4d1b-84d6-693256aa378c"
-      (reference "C208") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C208") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/85aa615d-a40e-45f3-b6cc-b43b064b3867/24d84ed3-f2f2-4004-a943-3a1afa5190c2"
-      (reference "C209") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C209") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/85aa615d-a40e-45f3-b6cc-b43b064b3867/751e1c31-ca83-4eeb-b598-8a43eaf2edac"
       (reference "C210") (unit 1) (value "3.9n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -817,7 +817,7 @@
       (reference "C213") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/85aa615d-a40e-45f3-b6cc-b43b064b3867/964c729c-2322-4f63-9b20-b76298494b5d"
-      (reference "C214") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C214") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/85aa615d-a40e-45f3-b6cc-b43b064b3867/2c3c9e2c-ff51-4ba2-9efd-8b8d6d9ee36b"
       (reference "C215") (unit 1) (value "10u") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder")
@@ -844,10 +844,10 @@
       (reference "J104") (unit 1) (value "Conn_01x15") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical")
     )
     (path "/187a0200-f9ae-4fa4-b920-48df9a722774/0e1c9c4a-2765-4285-93c1-90e3747bffe3"
-      (reference "Q301") (unit 1) (value "NST65011") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering")
+      (reference "Q301") (unit 1) (value "MMDT3904") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering")
     )
     (path "/187a0200-f9ae-4fa4-b920-48df9a722774/24142015-d06d-4528-94f4-a145291de503"
-      (reference "Q301") (unit 2) (value "NST65011") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering")
+      (reference "Q301") (unit 2) (value "MMDT3904") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering")
     )
     (path "/85aa615d-a40e-45f3-b6cc-b43b064b3867/234d7e2f-3065-4e50-b5f8-591a35897d4e"
       (reference "R201") (unit 1) (value "15K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
@@ -868,7 +868,7 @@
       (reference "R206") (unit 1) (value "15K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/85aa615d-a40e-45f3-b6cc-b43b064b3867/0a33ff6c-ba2b-4784-acda-d47e31917679"
-      (reference "R207") (unit 1) (value "5.6K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R207") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/85aa615d-a40e-45f3-b6cc-b43b064b3867/e39d82bd-b5a2-4619-b23c-56a990d03b6d"
       (reference "R208") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
