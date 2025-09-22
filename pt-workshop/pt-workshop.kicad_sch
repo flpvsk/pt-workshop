@@ -341,6 +341,15 @@
     (uuid f0f138de-4548-43b7-8b43-5d9778935093)
   )
 
+  (text "TODO:" (at 248.92 19.05 0)
+    (effects (font (size 3.54 3.54)) (justify left bottom))
+    (uuid b160d0b5-11ec-4503-812a-d6ca0bef5463)
+  )
+  (text "Add latch-up protection circuit\n" (at 250.19 22.86 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b2e467c3-c62f-48b0-80cb-f914f1c4d50c)
+  )
+
   (label "PT_Vctrl" (at 76.2 148.59 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 019fb034-b147-4289-a473-0bf8539ff767)
